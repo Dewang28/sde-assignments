@@ -89,7 +89,7 @@ export default function App() {
         <section className="intro-page">
           <div className="intro-inner">
             <h1>Introducing Speak Tutor.</h1>
-            <h2>The world’s best language teacher.</h2>
+            <h1>The world’s best language teacher.</h1>
             <p>
               Speak Tutor is your personal 24/7 language coach — ready to guide,
               challenge, and motivate you every day.
